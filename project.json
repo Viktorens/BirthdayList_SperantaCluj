@@ -1,5 +1,5 @@
 {
-  "name": "Speranta_Cluj_Birthday_List_Windows",
+  "name": "Speranta_Cluj_Birthday_List",
   "description": "Filters Excel and finds current week birthdays and saves them in PowerPoint",
   "main": "Main.xaml",
   "dependencies": {
@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.4.4.0",
-  "projectVersion": "1.0.1-alpha",
+  "projectVersion": "1.0.1-alpha.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
